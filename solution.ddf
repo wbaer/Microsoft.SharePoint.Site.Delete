@@ -1,0 +1,11 @@
+;
+.OPTION EXPLICIT     ; Generate errors 
+.Set CabinetNameTemplate=Microsoft SharePoint Site Nibbler.wsp     
+.set DiskDirectoryTemplate=CDROM ; All cabinets go in a single directory
+.Set CompressionType=MSZIP;** All files are compressed in cabinet files
+.Set UniqueFiles="ON"
+.Set Cabinet=on
+.Set DiskDirectory1=Solution
+manifest.xml
+"Microsoft.SharePoint.Site.Delete\stsadmcommands.nibbler.xml" CONFIG\stsadmcommands.nibbler.xml
+"Microsoft.SharePoint.Site.Delete\bin\Debug\Microsoft.SharePoint.Site.Nibbler.dll" Microsoft.SharePoint.Site.Nibbler.dll

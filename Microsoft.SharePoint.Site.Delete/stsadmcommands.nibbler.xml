@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<commands>
+  <command
+      name="nibblesite"
+      class="Microsoft.SharePoint.Site.Nibbler.DeleteCommands, Microsoft.SharePoint.Site.Nibbler, 
+        Version=1.0.0.0, 
+        Culture=neutral, 
+        PublicKeyToken=7046d3d727277d61"/>
+</commands>

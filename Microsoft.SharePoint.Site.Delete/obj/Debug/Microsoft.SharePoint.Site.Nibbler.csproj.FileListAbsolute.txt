@@ -1,0 +1,12 @@
+C:\Users\wbaer.REDMOND\Documents\Visual Studio 2008\Projects\Microsoft.SharePoint.Site.Delete\Microsoft.SharePoint.Site.Delete\bin\Debug\Microsoft.SharePoint.Site.Nibbler.dll
+C:\Users\wbaer.REDMOND\Documents\Visual Studio 2008\Projects\Microsoft.SharePoint.Site.Delete\Microsoft.SharePoint.Site.Delete\bin\Debug\Microsoft.SharePoint.Site.Nibbler.pdb
+C:\Users\wbaer.REDMOND\Documents\Visual Studio 2008\Projects\Microsoft.SharePoint.Site.Delete\Microsoft.SharePoint.Site.Delete\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\wbaer.REDMOND\Documents\Visual Studio 2008\Projects\Microsoft.SharePoint.Site.Delete\Microsoft.SharePoint.Site.Delete\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\wbaer.REDMOND\Documents\Visual Studio 2008\Projects\Microsoft.SharePoint.Site.Delete\Microsoft.SharePoint.Site.Delete\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Users\wbaer.REDMOND\Documents\Visual Studio 2008\Projects\Microsoft.SharePoint.Site.Delete\Microsoft.SharePoint.Site.Delete\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\wbaer.REDMOND\Documents\Visual Studio 2008\Projects\Microsoft.SharePoint.Site.Delete\Microsoft.SharePoint.Site.Delete\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Users\wbaer.REDMOND\Documents\Visual Studio 2008\Projects\Microsoft.SharePoint.Site.Delete\Microsoft.SharePoint.Site.Delete\bin\Debug\Microsoft.SharePoint.xml
+C:\Users\wbaer.REDMOND\Documents\Visual Studio 2008\Projects\Microsoft.SharePoint.Site.Delete\Microsoft.SharePoint.Site.Delete\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wbaer.REDMOND\Documents\Visual Studio 2008\Projects\Microsoft.SharePoint.Site.Delete\Microsoft.SharePoint.Site.Delete\obj\Debug\Microsoft.SharePoint.Site.Nibbler.dll
+C:\Users\wbaer.REDMOND\Documents\Visual Studio 2008\Projects\Microsoft.SharePoint.Site.Delete\Microsoft.SharePoint.Site.Delete\obj\Debug\Microsoft.SharePoint.Site.Nibbler.pdb
+C:\Users\WBAER.REDMOND\Documents\Visual Studio 2008\Projects\Microsoft.SharePoint.Site.Delete\Microsoft.SharePoint.Site.Delete\bin\Debug\Microsoft.SharePoint.Site.Nibbler.XML

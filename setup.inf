@@ -1,0 +1,20 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Sun Nov 23 17:35:23 2008           **
+;**                                                                **
+;** MakeCAB Version: 6.0.6001.18000                                 **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,Microsoft SharePoint Site Nibbler.wsp
+[file list]
+1,1,manifest.xml,359
+1,1,CONFIG\stsadmcommands.nibbler.xml,303
+1,1,Microsoft.SharePoint.Site.Nibbler.dll,8704
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Sun Nov 23 17:35:23 2008           **
+;**                                                                **
+;*** END ************************************************************

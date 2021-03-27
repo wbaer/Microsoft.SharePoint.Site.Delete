@@ -1,0 +1,8 @@
+﻿<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="{C3AABB57-68F5-4704-BBE2-6257EA393141}">
+  <RootFiles>
+    <RootFile Location="CONFIG\stsadmcommands.nibbler.xml"/>
+  </RootFiles>
+  <Assemblies>
+    <Assembly DeploymentTarget="GlobalAssemblyCache" Location="Microsoft.SharePoint.Site.Nibbler.dll" />
+  </Assemblies>
+</Solution>

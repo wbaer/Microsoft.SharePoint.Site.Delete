@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.SharePoint.Site.Nibbler</name>
+    </assembly>
+    <members>
+        <member name="M:Microsoft.SharePoint.Site.Nibbler.DeleteCommands.GetHelpMessage(System.String)">
+            <summary>
+            Gets the help message.
+            </summary>
+            <param name="command">The command.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Microsoft.SharePoint.Site.Nibbler.DeleteCommands.Run(System.String,System.Collections.Specialized.StringDictionary,System.String@)">
+            <summary>
+            Runs the specified command.
+            </summary>
+            <param name="command">The command.</param>
+            <param name="keyValues">The key values.</param>
+            <param name="output">The output.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Microsoft.SharePoint.Site.Nibbler.DeleteCommands.NibbleSite(System.Collections.Specialized.StringDictionary,System.String@)">
+            <summary>
+            Initializes a new instance of the <see cref="M:Microsoft.SharePoint.Site.Nibbler.DeleteCommands.NibbleSite(System.Collections.Specialized.StringDictionary,System.String@)"/> class.
+            </summary>
+        </member>
+    </members>
+</doc>
